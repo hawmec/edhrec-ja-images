@@ -1,6 +1,8 @@
 # EDHREC Japanese Card Images
 
 [EDHREC](https://edhrec.com) のカード画像を日本語版に自動差し替えする Tampermonkey / Greasemonkey ユーザースクリプトです。
+最近マジックザギャザリングを遊び始め、日本のファンサイトの乏しさからedhrecを使い始め、時々日本語のカード言語の壁に
+
 カード情報の取得には [Scryfall API](https://scryfall.com/docs/api) を使用しています。
 
 ---
